@@ -1,5 +1,5 @@
 # Books
-A collection of books that i find interresting. <br>
+A collection of books that i find interesting. <br>
 If you have any suggetions please let me know! <br>
 
 ## Currently reading
