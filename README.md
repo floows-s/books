@@ -3,7 +3,7 @@ A collection of books that i find interesting. <br>
 If you have any suggetions please let me know! <br>
 
 ## Currently reading
-Marcus Aurelius - Meditations (Translated by Gregory Hays)
+Marcus Aurelius - Meditations (Translated by Gregory Hays) <br>
 Jens Gustedt - Modern C, Third Edition <br>
 
 
@@ -13,6 +13,6 @@ Carl G. Jung - Man And His Symbols <br>
 David Thomas & Andrew Hunt - The Pragmatic Programmer 20th Anniversary Edition <br>
 
 ## Backlog
-Søren Kierkegaard - Either/Or
+Søren Kierkegaard - Either/Or <br>
 
 
